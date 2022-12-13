@@ -1,8 +1,8 @@
-Ever wanted to create some code that prints a message but you felt it was too readable?
+Ever wanted to create some code that prints a message but you felt it was too readable? <br/>
 Then I have a solution to you.
 
 Simply have rust installed and run
-```
+```sh
 cargo run msg.txt
 ```
 
