@@ -10,6 +10,8 @@ cargo run msg.txt
 
 and presto! you have your beautiful code in front of your eyes.
 
+> It's reccomended to have at least one newline in your message since there's a bug which may print the first char of the table a couple times, and since the table is sorted by the ascii values the newline will end up the first.
+> I'm not fixing it since right now it looks uglier than it would be after fixing it
 
 <br/><br/><br/>
 
